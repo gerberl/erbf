@@ -133,10 +133,14 @@ width summary reflects this: active features have narrower mean widths.
 ## Citation
 
 ```bibtex
-@article{gerber2026revisiting,
+@misc{gerber2026revisiting,
   title={Revisiting Chebyshev Polynomial and Anisotropic RBF Models for Tabular Regression},
-  author={Gerber, Luciano and Lloyd, Huw},
-  year={2026}
+  author={Luciano Gerber and Huw Lloyd},
+  year={2026},
+  eprint={2602.22422},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2602.22422}
 }
 ```
 
